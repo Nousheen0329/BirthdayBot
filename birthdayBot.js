@@ -35,7 +35,7 @@ client.on("ready", () => {
     }
 
     if (Birthday === today) {
-      const message = `🎉 Happy Birthday, ${Name}! Have a great day! 🎂🎈`;
+      const message = `🎉 Happy Birthday, ${Name}! 🎂🎈 Have a great day! 🎂🎈`;
 
       client
         .sendMessage(PhoneNumber + "@c.us", message)
