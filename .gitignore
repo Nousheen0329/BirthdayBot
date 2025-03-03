@@ -1,0 +1,6 @@
+.env
+node_modules/
+session/
+birthdays.xlsx
+.wwbejs_auth
+.wwebjs_cache
